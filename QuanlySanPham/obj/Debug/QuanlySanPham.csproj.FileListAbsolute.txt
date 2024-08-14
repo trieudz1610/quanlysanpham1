@@ -1,0 +1,15 @@
+D:\hoc o lớp\QuanlySanPham\bin\Debug\QuanlySanPham.exe.config
+D:\hoc o lớp\QuanlySanPham\bin\Debug\QuanlySanPham.exe
+D:\hoc o lớp\QuanlySanPham\bin\Debug\QuanlySanPham.pdb
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.csproj.AssemblyReference.cache
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.FormLogin.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.FormProductManagement.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.ViewProduct.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.Properties.Resources.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.csproj.GenerateResource.cache
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.csproj.CoreCompileInputs.cache
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.exe
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.pdb
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.AdminTransaction.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.CustomerInformation.resources
+D:\hoc o lớp\QuanlySanPham\obj\Debug\QuanlySanPham.Form7.resources
